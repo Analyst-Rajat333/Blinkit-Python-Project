@@ -50,20 +50,38 @@ This project showcases an in-depth **Data Analysis of Blinkit (formerly Grofers)
 1. **Donut Chart: Total Sales by Fat Content**  
    Shows sales contribution from `Low Fat` vs `Regular` items
 
+![total_sales_by_fat_content](https://github.com/user-attachments/assets/8a6738b0-6fc2-4d16-8745-265ffc1632a8)
+
+
 2. **Bar Plot: Total Sales by Item Type**  
    Highlights the most and least sold product categories
+
+![total_sales_by_item_type](https://github.com/user-attachments/assets/d1a5a928-92c4-499f-9e24-b26e55be4cb2)
+
 
 3. **Grouped Bar Chart: Fat Content vs City Tier**  
    Compares sales in Tier 1, 2, and 3 cities based on fat content
 
+![grouped_fat_sales_by_city_tier](https://github.com/user-attachments/assets/51aeff50-10b3-4af5-84cd-a0686c4c6f56)
+
+
 4. **Line Chart: Sales by Outlet Establishment Year**  
    Reveals how older outlets perform over the years
+
+![total_sales_by_establishment_year](https://github.com/user-attachments/assets/315e94c3-fa14-4e8e-b89d-cf3c60d049b4)
+
 
 5. **Pie Chart: Sales by Outlet Size**  
    Analyzes contribution of Small, Medium, and High outlets
 
+![sales_by_outlet_size_donut](https://github.com/user-attachments/assets/ae1e93d3-8c5e-41b5-ba6c-97f588ce8be3)
+
+
 6. **Funnel Chart: Sales by Outlet Location Type**  
    Assesses regional performance across outlet types
+   
+![sales_by_location_funnel](https://github.com/user-attachments/assets/6dcdeb62-b8a8-4ee6-aba9-21cb9d10dc69)
+
 
 ---
 
@@ -76,15 +94,15 @@ This project showcases an in-depth **Data Analysis of Blinkit (formerly Grofers)
 
 ---
 
-## 🚀 How to Run This Project
+## 🔗 GitHub Repository Link
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Analyst-Rajat333/Blinkit-Python-Project.git
+https://github.com/Analyst-Rajat333/Blinkit-Python-Project
 
-![total_sales_by_item_type](https://github.com/user-attachments/assets/4cf12a36-1f87-41f2-bd77-6adaa43fe98f)
-![total_sales_by_fat_content](https://github.com/user-attachments/assets/aa5eeaaf-7d8e-4f47-a97e-c18ba2f6995d)
-![total_sales_by_establishment_year](https://github.com/user-attachments/assets/9b6776a8-27e5-4742-a880-0d12ed736828)
-![sales_by_outlet_size_donut](https://github.com/user-attachments/assets/ea70f54d-d5d8-41b7-85d8-ca7d9a7f5c12)
-![sales_by_location_funnel](https://github.com/user-attachments/assets/d0fea311-ac2e-43f0-bb34-40955166b492)
-![grouped_fat_sales_by_city_tier](https://github.com/user-attachments/assets/bae53669-d493-4624-8542-4db2a6db4492)
+---
+
+## 👨‍💻 Author
+
+**Rajat Saxena**  
+📧 **Email**: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 **GitHub**: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
+
